@@ -1,4 +1,4 @@
-package com.example.ApiDemoJava.model;
+package com.example.crud_app.model;
 import jakarta.persistence.*;
 
 import java.util.Objects;
